@@ -1,0 +1,5 @@
+server:
+  port: 8090
+config:
+  davBase: /Users/lqt/webdav
+  root-password: root
